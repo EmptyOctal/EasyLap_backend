@@ -2,8 +2,7 @@ import requests
 import json
 from utils import convert
 
-# 定义 API 地址
-API_URL = "http://127.0.0.1:5050/chat"  # 根据实际部署地址修改
+API_URL = "http://127.0.0.1:5050/chat"
 
 def send_request(api_url, data):
     try:
