@@ -1,5 +1,7 @@
 # EasyLap_backend
 
+[项目前端地址](https://github.com/EmptyOctal/EasyLap_frontend)
+
 ## 运行方法
 
 **我们的自建neo4j数据库暂未公开，如有部署需求，可以先联系我们获取数据库。**
